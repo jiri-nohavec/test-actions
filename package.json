@@ -1,0 +1,13 @@
+{
+	"name": "@jnohavec/cordova-plugin-test",
+	"version": "1.1.0",
+	"description": "",
+	"cordova": {
+		"id": "cordova-test-plugin"
+	},
+	"keywords": [
+		"ecosystem:cordova"
+	],
+	"author": "",
+	"license": "ISC"
+}
