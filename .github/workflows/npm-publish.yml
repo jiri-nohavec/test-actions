@@ -7,7 +7,7 @@ on:
     paths:
       - package.json
       - plugin.xml
-      - www/*
+      - www/**
 
 jobs:
   build:
