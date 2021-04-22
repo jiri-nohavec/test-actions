@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: [ master ]
+    paths:
+      - package.json
+      - plugin.xml
+      - www/*
 
 jobs:
   build:
